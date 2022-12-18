@@ -8,5 +8,5 @@ while true do
   param = param.to_i if(param == '0' || param.to_i > 0)
   cmd = IntegerToRoman.new(param).call
   puts "\nResult: #{cmd}".green
-  puts "\nType Ctrl + C to exit the program.".red
+  puts "\nPress Ctrl + C to exit the program.".red
 end
