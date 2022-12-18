@@ -10,7 +10,7 @@ This algorithm can be used to convert an Integer into Roman numeral.
     - :computer: [Linux Ubuntu LTS](https://ubuntu.com/download/desktop)
     - 🐳 [Docker](https://docs.docker.com/engine/installation/)
     - 🐳 [Docker Compose](https://docs.docker.com/compose/)
-    - **💡 Hint:** [Documentação do Docker](https://docs.docker.com/)
+    - **💡 Hint:** [Docker Documentation](https://docs.docker.com/)
 
 # Setup
 
