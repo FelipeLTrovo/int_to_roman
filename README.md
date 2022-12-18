@@ -16,7 +16,7 @@ This algorithm can be used to convert an Integer into Roman numeral.
 
 ## 🐳 With Docker Development Environment
 
-Upon installing both docker and docker-compose, in the project root directory, execute:
+After installing both docker and docker-compose, in the project root directory, execute:
 
 ```sh
 docker-compose run web
