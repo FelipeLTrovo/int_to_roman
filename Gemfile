@@ -1,2 +1,2 @@
 gem 'rspec'
-gem 'colorize'
+gem 'colorize', source: 'https://rubygems.org'
