@@ -27,11 +27,15 @@ describe 'IntegerToRoman' do
     it 'is a string' do
       cmd_a = IntegerToRoman.new("123").call
       cmd_b = IntegerToRoman.new("some text").call
-      cmd_c = IntegerToRoman.new(2.5).call
 
       expect(cmd_a).to eq("Only Integer parameters are allowed.")
       expect(cmd_b).to eq("Only Integer parameters are allowed.")
-      expect(cmd_c).to eq("Only Integer parameters are allowed.")
+    end
+
+    it 'is a float' do
+      cmd = IntegerToRoman.new(2.5).call
+
+      expect(cmd).to eq("Only Integer parameters are allowed.")
     end
   end
 end
