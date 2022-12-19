@@ -4,6 +4,9 @@
 
 This algorithm can be used to convert an Integer into Roman numeral.
 
+![image](https://user-images.githubusercontent.com/15835917/208356848-01999481-848a-4b6c-bd6c-8fc84e29d8ec.png)
+
+
 **:warning: Hint:** This project is configured to run under Docker, it is completely optional though.
 
 - **🛠 Docker Development Environment**
